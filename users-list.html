@@ -1,0 +1,53 @@
+---
+permalink: "users/"
+---
+
+<!doctype html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Investors Directory</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.8.2/css/bulma.min.css">
+
+    <style>
+
+    </style>
+
+</head>
+
+<body>
+    <section class="section">
+        <div class="container">
+            <h1 class="title">
+                Investors Directory
+            </h1>
+            <p class="subtitle">
+                Dealdriven
+            </p>
+        </div>
+    </section>
+    <div class="section">
+        {%- for user in users %}
+        <article class="media">
+            <figure class="media-left">
+                <p class="image is-64x64">
+                    <img src="{{user.image}}">
+                </p>
+            </figure>
+            <div class="media-content">
+                <div class="content">
+                    <p>
+                        <strong><a href="{{user.id}}">{{user.name}}</a></strong> <small></small> <small>{{user.dateAdded}}</small>
+                        <br>
+                        {{user.bio}}
+                    </p>
+                </div>
+            </div>
+        </article>
+        {%- endfor %}
+    </div>
+</body>
+
+</html>
