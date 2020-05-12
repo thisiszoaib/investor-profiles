@@ -1,0 +1,46 @@
+[
+    {
+        "id": "user5",
+        "name": "Nathan Bruder",
+        "email": "nathan@gmail.com",
+        "dateAdded": "08.08.2013",
+        "bio": "Green Elephant Development represents a brand of general contractors looking to acquire properties and turn them into beautiful homes. We donate partial proceeds of the profit made to wildlife reservation. Want to sell? We’ll buy your home cash, as is!",
+        "image": "https://s3.amazonaws.com/mogul-api-dev-documents/5f84cf0b-ebef-4736-9d2c-e9ce2322b87d/6ba68b5f-4095-48cf-9de2-b72c2c9c25c6/signature-photos/5cef92de-11ec-4155-88e3-88340843fc17",
+        "city": "Los Angeles",
+        "state": "CA",
+        "headline": "Instant Sold"
+    },
+    {
+        "id": "user2",
+        "name": "Nat Pryce",
+        "email": "nat@gmail.com",
+        "dateAdded": "08.09.2013",
+        "bio": "Green Elephant Development represents a brand of general contractors looking to acquire properties and turn them into beautiful homes. We donate partial proceeds of the profit made to wildlife reservation. Want to sell? We’ll buy your home cash, as is!",
+        "image": "https://s3.amazonaws.com/mogul-api-dev-documents/5f84cf0b-ebef-4736-9d2c-e9ce2322b87d/6ba68b5f-4095-48cf-9de2-b72c2c9c25c6/signature-photos/5cef92de-11ec-4155-88e3-88340843fc17",
+        "city": "Atlanta",
+        "state": "GA",
+        "headline": "We Buy Houses!"
+    },
+    {
+        "id": "user3",
+        "name": "Sally Potts",
+        "email": "nathan@gmail.com",
+        "dateAdded": "08.08.2013",
+        "bio": "Green Elephant Development represents a brand of general contractors looking to acquire properties and turn them into beautiful homes. We donate partial proceeds of the profit made to wildlife reservation. Want to sell? We’ll buy your home cash, as is!",
+        "image": "https://s3.amazonaws.com/mogul-api-dev-documents/5f84cf0b-ebef-4736-9d2c-e9ce2322b87d/6ba68b5f-4095-48cf-9de2-b72c2c9c25c6/signature-photos/5cef92de-11ec-4155-88e3-88340843fc17",
+        "city": "Los Angeles",
+        "state": "CA",
+        "headline": "Instant Sold"
+    },
+    {
+        "id": "user4",
+        "name": "Nathan Bruder",
+        "email": "nathan@gmail.com",
+        "dateAdded": "08.08.2013",
+        "bio": "Green Elephant Development represents a brand of general contractors looking to acquire properties and turn them into beautiful homes. We donate partial proceeds of the profit made to wildlife reservation. Want to sell? We’ll buy your home cash, as is!",
+        "image": "https://s3.amazonaws.com/mogul-api-dev-documents/5f84cf0b-ebef-4736-9d2c-e9ce2322b87d/6ba68b5f-4095-48cf-9de2-b72c2c9c25c6/signature-photos/5cef92de-11ec-4155-88e3-88340843fc17",
+        "city": "Los Angeles",
+        "state": "CA",
+        "headline": "Instant Sold"
+    }
+]
